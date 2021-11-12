@@ -1,5 +1,5 @@
 <h1 align="center">IWOCE-PTVulnerable</h1>
-<h4 align="center">Intelligent Wireless OUTDOOR CPE/AP path traversal vulnerable.</h4>
+<h4 align="center">Intelligent Wireless OUTDOOR CPE/AP path traversal vulnerable</h4>
 
 ## Information
 Exploit Title: Intelligent Wireless OUTDOOR CPE/AP path traversal<br>
